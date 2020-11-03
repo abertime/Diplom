@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>kinoobzor</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+
+<header class="header-bg">
+
+    <div class="d1">
+        <form>
+            <input type="text" placeholder="Поиск">
+            <button type="submit"></button>
+        </form>
+    </div>
+
+    <button class="header__login" type="button" data-modal="login">Вход</button>
+
+    <nav class="header__navigation">
+
+        <a class="header__link"
+           title="Смотреть Новинки кино онлайн"
+           href="/novinki/"
+        >
+            Новинки
+        </a>
+
+        <a class="header__link"
+           title="Подписка"
+           href="/subscription/"
+        >
+            Подписки
+        </a>
+
+        <a class="header__link"
+           title="Смотреть фильмы онлайн Бесплатно"
+           href="/besplatno/"
+        >
+            Бесплатно
+        </a>
+
+        <a class="header__link"
+           title="Смотреть подборки фильмов онлайн"
+           href="/topics/"
+        >
+            Подборки
+        </a>
+
+        <a class="header__link"
+           title="Кино по жанрам"
+           href="/genres/"
+        >
+            Каталог
+        </a>
+
+        <a class="header__link"
+           title="Смотреть детские мультики онлайн"
+           href="/kids/"
+        >
+            Детям
+        </a>
+
+        <a class="header__link"
+           title="Спецпроекты"
+           href="/specprojects/"
+        >
+            Спецпроекты
+        </a>
+
+    </nav>
+
+</header>
+<body bgcolor="#241e20">
+
+<div id="katalog">
+
+</div>
+
+<script src="http://api.tvmaze.com/schedule?country=US&date=2020-02-18"></script>
+</body>
+
+</html>
