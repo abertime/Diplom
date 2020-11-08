@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="629a9634-f030-4c0f-94df-2a8f7817004f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laba3/laba3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,6 +72,10 @@
       <workItem from="1604417427015" duration="8089000" />
       <workItem from="1604862778077" duration="45000" />
       <workItem from="1604862876209" duration="33000" />
+      <workItem from="1604864420105" duration="450000" />
+      <workItem from="1604866005569" duration="78000" />
+      <workItem from="1604868436795" duration="49000" />
+      <workItem from="1604868487360" duration="9000" />
     </task>
     <servers />
   </component>
@@ -98,9 +98,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1744" y="479" key="FileChooserDialogImpl" timestamp="1604862900246">
+    <state x="1744" y="479" key="FileChooserDialogImpl" timestamp="1604868492085">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1744" y="479" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604862900246" />
+    <state x="1744" y="479" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604868492085" />
   </component>
 </project>
